@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/language.xsd" languagecode="de-informal">
+	<category name="wcf.acp.admintools">		
+		<item name="wcf.acp.admintools.function.wbb.boardPermissions"><![CDATA[Forenrechte kopieren]]></item>
+	</category>
+	<category name="wbb.acp.admintools">		
+		<item name="wbb.acp.admintools.function.wbb.boardPermissions.sourceInTargetArray"><![CDATA[Das Quellforum darf nicht in der Auswahl der Zielforen enthalten sein.]]></item>
+	</category>
+	<category name="wcf.acp.admintools.option">
+		<item name="wcf.acp.admintools.option.category.wbb"><![CDATA[Burning Board]]></item>
+		<item name="wcf.acp.admintools.option.category.wbb.boardPermissions"><![CDATA[Forenrechte kopieren]]></item>
+		<item name="wcf.acp.admintools.option.category.wbb.boardPermissions.description"><![CDATA[Diese Funktion ermöglicht es die Forenrechte, Benutzer, Benutzergruppen und Moderatoren von einem Forum auf mehrere andere zu übertragen.]]></item>		
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.sourceBoard"><![CDATA[Quellforum]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.sourceBoard.description"><![CDATA[Wähle hier das Forum aus, dessen Rechte du kopieren möchtest.]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.targetBoards"><![CDATA[Zielforen]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.targetBoards.description"><![CDATA[Mehrfache Markierungen sind durch zusätzliches Drücken der Taste &raquo;Strg/Ctrl&laquo; (Windows) oder &raquo;Befehl/Command&laquo; (Mac OS) möglich.]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.copyUsers"><![CDATA[Benutzer kopieren]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.copyUsers.description"><![CDATA[Aktiviere diese Option, wenn die Benutzerrechte kopiert werden sollen.]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.copyUsergroups"><![CDATA[Benutzergruppen kopieren]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.copyUsergroups.description"><![CDATA[Aktiviere diese Option, wenn die Benutzergruppenrechte kopiert werden sollen.]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.copyModerators"><![CDATA[Moderatoren kopieren]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.copyModerators.description"><![CDATA[Aktiviere diese Option, wenn die Moderatoren kopiert werden sollen.]]></item>
+	</category>
+</language>

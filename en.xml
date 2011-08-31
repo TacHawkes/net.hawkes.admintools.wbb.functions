@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/language.xsd" languagecode="en">
+	<category name="wcf.acp.admintools">		
+		<item name="wcf.acp.admintools.function.wbb.boardPermissions"><![CDATA[Copy board permissions]]></item>
+	</category>
+	<category name="wbb.acp.admintools">		
+		<item name="wbb.acp.admintools.function.wbb.boardPermissions.sourceInTargetArray"><![CDATA[The source board must not be included within the target boards.]]></item>
+	</category>
+	<category name="wcf.acp.admintools.option">
+		<item name="wcf.acp.admintools.option.category.wbb"><![CDATA[Burning Board]]></item>
+		<item name="wcf.acp.admintools.option.category.wbb.boardPermissions"><![CDATA[Copy board permissions]]></item>
+		<item name="wcf.acp.admintools.option.category.wbb.boardPermissions.description"><![CDATA[This function allows you to copy board, user, usergroup and moderator permissions from one board to others.]]></item>		
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.sourceBoard"><![CDATA[Source board]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.sourceBoard.description"><![CDATA[Select the board which permissions you would like to copy.]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.targetBoards"><![CDATA[Zielforen]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.targetBoards.description"><![CDATA[Multiple items can be selected by holding the &quot;Ctrl/Shift&quot; key (Windows) or &quot;Command&quot; (Mac OS) key and clicking the items required.]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.copyUsers"><![CDATA[Copy users]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.copyUsers.description"><![CDATA[Active this option to copy the user permissions of the source board.]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.copyUsergroups"><![CDATA[Copy usergroups]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.copyUsergroups.description"><![CDATA[Active this option to copy the usergroup permissions of the source board.]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.copyModerators"><![CDATA[Copy moderators]]></item>
+		<item name="wcf.acp.admintools.option.wbb.boardPermissions.copyModerators.description"><![CDATA[Active this option to copy the moderator permissions of the source board.]]></item>
+	</category>
+</language>
